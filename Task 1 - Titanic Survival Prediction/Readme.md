@@ -1,6 +1,6 @@
 # 🚢 Task 1 - Titanic Survival Prediction
 
-This project is part of the CodSoft Data Science Internship. The objective is to build a machine learning model to predict the survival of passengers aboard the Titanic, based on features like age, sex, class, and more.
+This project is part of the CodSoft Data Science Internship. The objective is to develop a machine learning model that predicts the survival of passengers aboard the Titanic, based on features such as age, sex, class, and others.
 
 ---
 
@@ -30,7 +30,7 @@ To predict whether a passenger survived the Titanic disaster using supervised le
 - Pandas
 - NumPy
 - Scikit-learn
-- Matplotlib / Seaborn (optional for visualization)
+- Matplotlib / Seaborn
 
 ---
 
@@ -44,7 +44,7 @@ To predict whether a passenger survived the Titanic disaster using supervised le
 
 ## 📊 Results
 
-- **Accuracy Score:** ~ (insert your result here, e.g., `82%`)
+- **Accuracy Score:** ~ 80%
 - Model shows good performance on test data using selected features.
 
 ---
@@ -53,7 +53,7 @@ To predict whether a passenger survived the Titanic disaster using supervised le
 
 - `titanic.py` – Source code for data processing and model training
 - `titanic.csv` – Dataset file
-- `output.png` – Screenshots or visualizations (optional)
+- `output.png` – Screenshots or visualisations
 
 ---
 
