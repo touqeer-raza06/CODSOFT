@@ -19,7 +19,7 @@ This repository contains all the tasks assigned and completed during the interns
 - Used Random Forest Classifier to categorize iris species based on sepal and petal measurements.
 - Achieved high accuracy on a clean and well-known dataset.
 
-### 🔹 [Task 4 – Sales Prediction Using Python](./Task%204%20-%20Sales%20Prediction%20Using%20Python)
+### 🔹 [Task 4 – Sales Prediction](./Task%204%20-%20Sales%20Prediction)
 - Built a regression model to predict product sales based on advertising budgets (TV, Radio, Newspaper).
 - Achieved over 95% R² Score using Random Forest Regressor.
 
