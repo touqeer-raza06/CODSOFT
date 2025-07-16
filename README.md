@@ -36,13 +36,13 @@ This repository contains all the tasks assigned and completed during the interns
 
 ## 📁 Folder Structure
 
--CODSOFT/
--│
--├── Task 1 - Titanic Survival Prediction/
--├── Task 2 - Movie Rating Prediction/
--├── Task 3 - Iris Flower Classification/
--├── Task 4 - Sales Prediction Using Python/
--└── README.md ← You are here
+CODSOFT/ <br>
+│<br>
+├── Task 1 - Titanic Survival Prediction/<br>
+├── Task 2 - Movie Rating Prediction/<br>
+├── Task 3 - Iris Flower Classification/<br>
+├── Task 4 - Sales Prediction Using Python/<br>
+└── README.md ← You are here<br>
 
 
 ---
