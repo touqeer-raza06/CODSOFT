@@ -15,14 +15,6 @@ This repository contains all the tasks assigned and completed during the interns
 - Implemented a regression model to predict movie ratings based on genres, votes, and duration.
 - Cleaned messy datasets and applied MultiLabelBinarizer for genre encoding.
 
-### 🔹 [Task 3 – Iris Flower Classification](./Task%203%20-%20Iris%20Flower%20Classification)
-- Used Random Forest Classifier to categorize iris species based on sepal and petal measurements.
-- Achieved high accuracy on a clean and well-known dataset.
-
-### 🔹 [Task 4 – Sales Prediction](./Task%204%20-%20Sales%20Prediction)
-- Built a regression model to predict product sales based on advertising budgets (TV, Radio, Newspaper).
-- Achieved over 95% R² Score using Random Forest Regressor.
-
 ---
 
 ## 📌 Tools & Technologies
