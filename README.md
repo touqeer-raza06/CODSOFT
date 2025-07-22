@@ -9,11 +9,24 @@ This repository contains all the tasks assigned and completed during the interns
 
 ### 🔹 [Task 1 – Titanic Survival Prediction](./Task%201%20-%20Titanic%20Survival%20Prediction)
 - Built a classification model using Random Forest to predict passenger survival on the Titanic.
-- Explored data preprocessing, handling missing values, and model evaluation.
+- Explored data preprocessing, handled missing values, and evaluated the model using accuracy and confusion matrix.
 
 ### 🔹 [Task 2 – Movie Rating Prediction](./Task%202%20-%20Movie%20Rating%20Prediction)
-- Implemented a regression model to predict movie ratings based on genres, votes, and duration.
-- Cleaned messy datasets and applied MultiLabelBinarizer for genre encoding.
+- Implemented a regression model to predict IMDb movie ratings based on genres, votes, duration, and year.
+- Cleaned messy data, processed multiple genres using MultiLabelBinarizer, and evaluated performance using R² score and error metrics.
+
+### 🔹 [Task 3 – Iris Flower Classification](./Task%203%20-%20Iris%20Flower%20Classification)
+- Developed a multi-class classification model to identify iris species using petal and sepal features.
+- Used Random Forest Classifier with high accuracy and tested on clean, balanced data.
+
+### 🔹 [Task 4 – Sales Prediction Using Python](./Task%204%20-%20Sales%20Prediction%20Using%20Python)
+- Created a regression model to forecast product sales based on advertising spend (TV, Radio, Newspaper).
+- Trained using RandomForestRegressor and evaluated using R² Score, MSE, and MAE.
+
+### 🔹 [Task 5 – Credit Card Fraud Detection](./Task%205%20-%20Credit%20Card%20Fraud%20Detection)
+- Built a binary classification model to detect fraudulent transactions from anonymised credit card data.
+- Handled class imbalance using SMOTE, scaled relevant features, and evaluated with precision, recall, F1-score, and confusion matrix.
+
 
 ---
 
