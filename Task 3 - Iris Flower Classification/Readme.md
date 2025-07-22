@@ -70,3 +70,10 @@ Build a classifier using the **Iris Dataset** to identify the species of an iris
 
 This was a beginner-friendly classification task that offered hands-on experience with supervised learning, specifically with the widely used **Iris Dataset**. Great exercise to understand how machine learning models handle multi-class classification problems.
 
+---
+
+## 🔗 Links
+
+- 📂 [GitHub Repository](https://github.com/touqeer-raza06/CODSOFT)
+- 🌐 [LinkedIn Post](https://www.linkedin.com/posts/mohammed-touqeer-raza-344304331_codsoft-machinelearning-datascience-activity-7353023486639882242-E8X2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFOEUOQBwr88GAUekOiiQ6QdAq_Fz7v9ODI)
+
