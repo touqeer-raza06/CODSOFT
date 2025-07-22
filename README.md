@@ -57,7 +57,7 @@ CODSOFT/ <br>
 
 **Touqeer Raza**  
 _BCA Student | Aspiring Data Scientist | Python Enthusiast_  
-[LinkedIn](https://www.linkedin.com/in/touqeer-raza06) • [GitHub](https://github.com/touqeer-raza06)
+[LinkedIn](https://www.linkedin.com/in/mohammed-touqeer-raza-344304331) • [GitHub](https://github.com/touqeer-raza06)
 
 ---
 
