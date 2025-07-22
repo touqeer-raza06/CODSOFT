@@ -84,3 +84,12 @@ These metrics show the model's ability to detect fraudulent transactions with hi
 ## 🚀 Conclusion
 
 This task was a valuable learning experience in handling **imbalanced datasets**, evaluating performance with **recall & F1-score**, and applying **real-world fraud detection logic** using Python and machine learning.
+
+---
+
+## 🔗 Links
+
+- 📂 [GitHub Repository](https://github.com/touqeer-raza06/CODSOFT)
+- 🌐 [LinkedIn Post](https://www.linkedin.com/posts/mohammed-touqeer-raza-344304331_creditcardfraud-frauddetection-machinelearning-activity-7353468592073375746-7DM9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFOEUOQBwr88GAUekOiiQ6QdAq_Fz7v9ODI)
+
+
