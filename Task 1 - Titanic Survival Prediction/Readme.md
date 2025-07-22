@@ -51,9 +51,9 @@ To predict whether a passenger survived the Titanic disaster using supervised le
 
 ## 🧾 Files
 
-- `titanic.py` – Source code for data processing and model training
-- `titanic.csv` – Dataset file
-- `output.png` – Screenshots or visualisations
+- `main.py` – Source code for data processing and model training
+- `Titanic-Dataset.csv` – Dataset file
+- `Figure_1.png` – Screenshots or visualisations
 
 ---
 
