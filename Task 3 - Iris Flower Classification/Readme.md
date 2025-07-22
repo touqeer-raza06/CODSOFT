@@ -63,7 +63,6 @@ Build a classifier using the **Iris Dataset** to identify the species of an iris
 
 - `main.py` — contains the code
 - `IRIS.csv` — dataset file
-- `output.png` — sample output screenshot
 
 ---
 
