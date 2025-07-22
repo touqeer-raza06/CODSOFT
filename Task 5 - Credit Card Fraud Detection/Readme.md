@@ -77,7 +77,7 @@ These metrics show the model's ability to detect fraudulent transactions with hi
 ## 📁 Files
 
 - `main.py` — Full pipeline from data loading to evaluation  
-- `creditcard.csv` — Dataset
+- `creditcard.csv` — Dataset (Because of file size [143 mb], I can't upload it here, you can see that dataset on kaggle)
 
 ---
 
