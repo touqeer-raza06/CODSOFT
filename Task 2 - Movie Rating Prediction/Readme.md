@@ -39,7 +39,7 @@ To build a machine learning model that predicts the **IMDb rating of Indian movi
 
 ## 🔗 Links
 
-- 📂 [GitHub Repository](https://github.com/touqeer-raza06/CODSOFT/tree/main/Task%202%20-%20Movie%20Rating%20Prediction)
+- 📂 [GitHub Repository](https://github.com/touqeer-raza06/CODSOFT)
 - 🌐 [LinkedIn Post](https://www.linkedin.com/posts/mohammed-touqeer-raza-344304331_datascience-machinelearning-python-activity-7350486729297989632-EZpt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFOEUOQBwr88GAUekOiiQ6QdAq_Fz7v9ODI)
 
 ---
