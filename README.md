@@ -2,6 +2,7 @@
 
 Welcome to my repository for the **CodSoft Data Science Internship (July 2025)**!  
 This repository contains all the tasks assigned and completed during the internship, showcasing practical implementations of machine learning and data analysis using Python.
+[Certificate](https://drive.google.com/file/d/1ZaVxAdDeToBgHy1oVwtlWOrpzmJ3bQGj/view?usp=sharing)
 
 ---
 
